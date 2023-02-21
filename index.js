@@ -66,6 +66,6 @@ document.addEventListener("touchstart", function(event) {
       `;
       textBox.setAttribute("data-index", currentIndex);
       textBox.classList.remove("fade");
-    }, 500);
+    }, 750);
   }, false);
   
