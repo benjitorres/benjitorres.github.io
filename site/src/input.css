@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#text-box{
+    opacity: 1;
+}
+
+#text-box.fade{
+    opacity: 0;
+}
