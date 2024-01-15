@@ -31,7 +31,7 @@ body {
   }
   
   body {
-    background: #202c26;
+    background: #1d3028;
     color:      #F8F8F2;
   }
   
@@ -42,14 +42,14 @@ body {
   }
   
   a, a:active, a:visited {
-    color: #990066;
+    color: #cb0088;
     /* font-family: Menlo, Monaco, 'Courier New', monospace; */
     /* background-color: #1d2021; */
   }
   
   .site-title > a {
     text-decoration: none;
-    color: #69FF94;
+    color: #e59b5a;
   }
   
   h1 {
@@ -67,7 +67,7 @@ body {
   
   h2 {
     font-size: 1.6rem;
-    color: #ea9999;
+    color: #c06e66;
   
   }
   
@@ -76,11 +76,11 @@ body {
     /* color: #FF79C6; */
     /* font-family: Menlo, Monaco, 'Courier New', monospace; */
     margin-bottom: .25rem;
-    color: #ea9999;
+    color: #c06e66;
   }
   
   blockquote {
-    border-left: 1px solid #ea9999;
+    border-left: 1px solid #c06e66;
     margin: 20px 10px;
     padding: 0px 10px;
     /* color: #BD93F9; */
